@@ -1,0 +1,3 @@
+[submodule "llamasherpa/nlm-ingestor"]
+	path = llamasherpa/nlm-ingestor
+	url = https://github.com/nlmatics/llmsherpa.git
